@@ -1,0 +1,2 @@
+alias svim="sudo -E vim"
+alias pacman="sudo pacman"
